@@ -1,4 +1,4 @@
-# JavaScript Path Installation
+# JavaScript Installation
 
 ### If you are a beginner..
 

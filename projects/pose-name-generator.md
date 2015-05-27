@@ -1,4 +1,4 @@
-# Project 2: Yoga Pose Name Generator
+# Project 3: Yoga Pose Name Generator
 
 Estimated difficulty level: Beginner
 
