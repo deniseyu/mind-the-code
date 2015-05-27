@@ -2,6 +2,8 @@ require 'sinatra'
 
 class MindTheCodeApp < Sinatra::Application
 
+  # CONSTANT = ConstantObject.new
+
   get '/' do
     erb :index
   end
