@@ -1,0 +1,24 @@
+{
+  "name": "mind-the-code",
+  "version": "1.0.0",
+  "description": "10:00 - 10:30 Registration & breakfast",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deniseyu/mind-the-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deniseyu/mind-the-code/issues"
+  },
+  "homepage": "https://github.com/deniseyu/mind-the-code",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.4"
+  }
+}
