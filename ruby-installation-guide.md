@@ -11,7 +11,7 @@ Make sure you have Ruby installed:
 
 https://www.ruby-lang.org/en/downloads/
 
-Run ```ruby -v``` in your Terminal to make sure that Ruby exists locally! You may have to restart your Terminal.
+Run ```ruby -v``` in your Terminal to make sure that Ruby exists locally! You may have to restart your Terminal. (If it is successfully installed, it will tell you which version.)
 
 Now run ```gem install bundler```. Bundler is a tool to help manage Ruby Gems, which are small libraries that can be ported onto any Ruby application to get additional functionality with ease.
 
