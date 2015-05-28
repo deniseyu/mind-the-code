@@ -9,3 +9,11 @@ With your coach, read through the project specs and pick one that sounds interes
 **important! - Don't worry about finishing.** Most, if not all, groups probably won't finish (and if you do, we've  provided some cheeky "extra mile" challenges!). Today is about learning and being mindful of what it means to develop software.
 
 Have fun, and if your group gets stuck, flag down a floating coach or organizer, or pop over to the group next to you to see if anyone there can help!
+
+## Projects:
+
+1. [Yoga slot machine](1-yoga-slot-machine.md)
+2. [Youtube lullabies](2-youtube-lullabies.md)
+3. [Pose name generator](3-pose-name-generator.md)
+4. [Online mood ring](4-online-mood-ring.md)
+5. [To-do list](5-to-do-list.md)
