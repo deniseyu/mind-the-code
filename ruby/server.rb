@@ -1,4 +1,12 @@
 require 'sinatra'
+require 'data_mapper'
+
+class Dog
+  include DataMapper::Resource
+
+  property :id,         Serial  # An auto-increment integer key
+  property :name,       String
+end
 
 class MindTheCodeApp < Sinatra::Application
 
@@ -22,8 +30,8 @@ class MindTheCodeApp < Sinatra::Application
   #   redirect '/' # redirects bounce to a GET route by default
   # end
   #
-  # get '/custom_route/:name' do
-  #   @dog = Dog.new(name: params[:some_param])
+  # get '/dogs/:name' do
+  #   @dog = Dog.where(name: params[:name])
   #   erb :dog
   # end
 
