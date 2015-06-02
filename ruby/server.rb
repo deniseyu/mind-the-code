@@ -1,5 +1,6 @@
 require 'sinatra'
 require 'data_mapper'
+load 'datamapper_setup.rb'
 
 class Dog
   include DataMapper::Resource
