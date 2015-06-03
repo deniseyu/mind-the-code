@@ -25,7 +25,7 @@ Make sure you have Node installed:
 
 https://nodejs.org/download/
 
-Run ```node -v``` in your Terminal to make sure that Ruby exists locally! You may have to restart your Terminal. (If it is successfully installed, it will tell you which version.)
+Run ```node -v``` in your Terminal to make sure that Node exists locally! You may have to restart your Terminal. (If it is successfully installed, it will tell you which version.)
 
 Now run ```npm install```. This will automatically install the dependencies needed to run this application. In this case, all we need is Express, which is a lightweight Node.js web application framework.
 
