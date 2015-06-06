@@ -152,11 +152,11 @@ Every new cat we create from this blueprint will start off with a satisfactory s
 Let's give him two new methods that will affect his hunger levels:
 
 ```
-Cat.prototype.eat () {
+Cat.prototype.eat = function () {
   this.hunger = "full";
 }
 
-Cat.prototype.exercise () {
+Cat.prototype.exercise = function () {
   this.hunger = "hungry";
 }
 ```
